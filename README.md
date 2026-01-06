@@ -507,7 +507,7 @@ status ENUM('PAID', 'PENDING')
 
 This project has successfully evolved from a basic console-based prototype to a **fully functional, production-ready web application**. The Hotel Management System demonstrates:
 
-### **Achievements**
+**Achievements**
 ✅ Complete full-stack implementation (Spring Boot + React)  
 ✅ Secure JWT-based authentication with RBAC  
 ✅ PostgreSQL database integration  
@@ -516,6 +516,7 @@ This project has successfully evolved from a basic console-based prototype to a 
 ✅ Full CRUD operations for all entities  
 ✅ Real-time dashboard analytics  
 ✅ Professional code organization following MVC pattern
+
 ---
 
 ## 16. Conclusion
@@ -528,7 +529,5 @@ The Hotel Management System project has been a comprehensive learning experience
 - **Software Architecture:** MVC, Service Layer, Repository Pattern
 - **Security:** JWT, RBAC, Password Hashing
 - **Professional Practices:** Git, Documentation, Code Quality
-
-The project is well-positioned for the final presentation and can serve as a strong portfolio piece demonstrating real-world software engineering skills.
 
 ---
